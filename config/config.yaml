@@ -34,7 +34,7 @@ notification:
   feishu_message_separator: "━━━━━━━━━━━━━━━━━━━" # feishu 消息分割线
 
   webhooks:
-    feishu_url: "https://open.feishu.cn/open-apis/bot/v2/hook/3e234dc8-d3e7-47e8-9ba0-04198e36c64e" # 飞书机器人的 webhook URL
+    feishu_url: "https://www.feishu.cn/flow/api/trigger-webhook/4c32f83b0e4c8e183740ca9149ca0105" # 飞书机器人的 webhook URL
     dingtalk_url: "" # 钉钉机器人的 webhook URL
     wework_url: "" # 企业微信机器人的 webhook URL
     telegram_bot_token: "" # Telegram Bot Token
